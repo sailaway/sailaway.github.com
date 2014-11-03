@@ -2,11 +2,11 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
-simple_search: https://www.google.com/search
+url: http://sailaway.github.io
+title: saiaway的博客
+subtitle: 不积跬步，无以至千里
+author: sailaway
+simple_search: https://aol.com/search
 description:
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
@@ -68,10 +68,6 @@ github_user:
 github_repo_count: 0
 github_show_profile_link: true
 github_skip_forks: true
-
-# Twitter
-twitter_user:
-twitter_tweet_button: true
 
 # Google +1
 google_plus_one: false
